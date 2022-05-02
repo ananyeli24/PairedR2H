@@ -22,3 +22,4 @@ function oddOrEven (numbers) {
 
   console.log(oddOrEven([12, 23, 49, 32, 27]));
   console.log(oddOrEven([11,4,2,12,15]));
+  //
